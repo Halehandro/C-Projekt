@@ -1,0 +1,20 @@
+C:\Users\Hale\source\repos\ListaProcesa\ListaProcesa\bin\Debug\ListaProcesa.exe.config
+C:\Users\Hale\source\repos\ListaProcesa\ListaProcesa\bin\Debug\ListaProcesa.exe
+C:\Users\Hale\source\repos\ListaProcesa\ListaProcesa\bin\Debug\ListaProcesa.pdb
+C:\Users\Hale\source\repos\ListaProcesa\ListaProcesa\obj\Debug\ListaProcesa.csprojResolveAssemblyReference.cache
+C:\Users\Hale\source\repos\ListaProcesa\ListaProcesa\obj\Debug\ListaProcesa.Form1.resources
+C:\Users\Hale\source\repos\ListaProcesa\ListaProcesa\obj\Debug\ListaProcesa.Properties.Resources.resources
+C:\Users\Hale\source\repos\ListaProcesa\ListaProcesa\obj\Debug\ListaProcesa.csproj.GenerateResource.Cache
+C:\Users\Hale\source\repos\ListaProcesa\ListaProcesa\obj\Debug\ListaProcesa.csproj.CoreCompileInputs.cache
+C:\Users\Hale\source\repos\ListaProcesa\ListaProcesa\obj\Debug\ListaProcesa.exe
+C:\Users\Hale\source\repos\ListaProcesa\ListaProcesa\obj\Debug\ListaProcesa.pdb
+C:\Users\Hale\Desktop\C# Projekt\ListaProcesa\bin\Debug\ListaProcesa.exe.config
+C:\Users\Hale\Desktop\C# Projekt\ListaProcesa\bin\Debug\ListaProcesa.exe
+C:\Users\Hale\Desktop\C# Projekt\ListaProcesa\bin\Debug\ListaProcesa.pdb
+C:\Users\Hale\Desktop\C# Projekt\ListaProcesa\obj\Debug\ListaProcesa.csprojResolveAssemblyReference.cache
+C:\Users\Hale\Desktop\C# Projekt\ListaProcesa\obj\Debug\ListaProcesa.Form1.resources
+C:\Users\Hale\Desktop\C# Projekt\ListaProcesa\obj\Debug\ListaProcesa.Properties.Resources.resources
+C:\Users\Hale\Desktop\C# Projekt\ListaProcesa\obj\Debug\ListaProcesa.csproj.GenerateResource.Cache
+C:\Users\Hale\Desktop\C# Projekt\ListaProcesa\obj\Debug\ListaProcesa.csproj.CoreCompileInputs.cache
+C:\Users\Hale\Desktop\C# Projekt\ListaProcesa\obj\Debug\ListaProcesa.exe
+C:\Users\Hale\Desktop\C# Projekt\ListaProcesa\obj\Debug\ListaProcesa.pdb
